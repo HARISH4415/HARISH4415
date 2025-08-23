@@ -61,17 +61,62 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARISH4415&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH4415&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARISH4415&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=HARISH4415&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH4415&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH4415&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </div>
 
-### 📈 **Contribution Graph**
+### 🔥 **Current Focus**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH4415&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+        <h3>🎯 What I'm Working On</h3>
+        <p>• Building AI-powered web applications</p>
+        <p>• Exploring Deep Learning frameworks</p>
+        <p>• Contributing to open source projects</p>
+        <p>• Learning advanced React concepts</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="300">
+        <h3>📚 Currently Learning</h3>
+        <p>• Advanced Machine Learning Algorithms</p>
+        <p>• Full Stack Development</p>
+        <p>• Cloud Computing (AWS/Azure)</p>
+        <p>• DevOps & CI/CD Pipelines</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 💡 **Fun Facts About Me**
+<div align="center">
+  
+```javascript
+const harish = {
+    pronouns: "he/him",
+    code: ["Python", "JavaScript", "HTML", "CSS"],
+    askMeAbout: ["web dev", "AI/ML", "data science", "problem solving"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vanilla JS"],
+            css: ["Bootstrap", "Tailwind CSS"]
+        },
+        backEnd: {
+            python: ["Flask", "Django"],
+        },
+        databases: ["MySQL", "MongoDB"],
+        misc: ["Git", "Docker", "Linux"]
+    },
+    currentFocus: "Building AI-powered solutions",
+    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+};
+```
+
 </div>
 
 ---
@@ -117,7 +162,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/HARISH4415/HARISH4415/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
