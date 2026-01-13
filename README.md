@@ -2,7 +2,9 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Flutter+Developer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -13,9 +15,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **19 years old** | B.Tech in **Artificial Intelligence & Data Science** (Class of 2027)  
-💻 Passionate about **Web Development**, **App Development**, and **Problem Solving**  
-🌟 Currently exploring the fascinating world of **AI/ML** and **Full Stack Development**  
-🚀 Always eager to learn new technologies and take on exciting challenges  
+💻 Passionate about **Web Development**, **App Development**, and **Problem Solving** 🌟 Currently exploring the fascinating world of **AI/ML** and **Full Stack Development** 🚀 Always eager to learn new technologies and take on exciting challenges  
 📈 Building projects that make a difference  
 
 <br clear="both" />
@@ -27,10 +27,14 @@
 ### **Languages & Frameworks**
 <div align="center">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -51,23 +55,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARISH4415&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=HARISH4415&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH4415&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</div>
 
 ### 🔥 **Current Focus**
 <div align="center">
@@ -76,56 +68,21 @@
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
         <h3>🎯 What I'm Working On</h3>
-        <p>• Building AI-powered web applications</p>
-        <p>• Exploring Deep Learning frameworks</p>
+        <p>• Building Mobile Application</p>
+        <p>• Building Websites</p>
         <p>• Contributing to open source projects</p>
-        <p>• Learning advanced React concepts</p>
       </td>
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="300">
         <h3>📚 Currently Learning</h3>
-        <p>• Advanced Machine Learning Algorithms</p>
+        <p>• Java DSA Concept</p>
         <p>• Full Stack Development</p>
-        <p>• Cloud Computing (AWS/Azure)</p>
-        <p>• DevOps & CI/CD Pipelines</p>
+        <p>• Machine Learning</p>
       </td>
     </tr>
   </table>
 </div>
 
-### 💡 **Fun Facts About Me**
-<div align="center">
-  
-```javascript
-const harish = {
-    pronouns: "he/him",
-    code: ["Python", "JavaScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "AI/ML", "data science", "problem solving"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["Bootstrap", "Tailwind CSS"]
-        },
-        backEnd: {
-            python: ["Flask", "Django"],
-        },
-        databases: ["MySQL", "MongoDB"],
-        misc: ["Git", "Docker", "Linux"]
-    },
-    currentFocus: "Building AI-powered solutions",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
-```
-
-</div>
-
----
-
-## 🏆 **Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARISH4415&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 ---
 
