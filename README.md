@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 **19 years old** | B.Tech in **Artificial Intelligence & Data Science** (Class of 2027)  
+🎓 **21 years old** | B.Tech in **Artificial Intelligence & Data Science** (Class of 2027)  
 💻 Passionate about **Web Development**, **App Development**, and **Problem Solving** 🌟 Currently exploring the fascinating world of **AI/ML** and **Full Stack Development** 🚀 Always eager to learn new technologies and take on exciting challenges  
 📈 Building projects that make a difference  
 
