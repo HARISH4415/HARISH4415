@@ -117,11 +117,6 @@
 *⭐ Star some repositories if you find them interesting!*
 
 </div>
-
-<div align="center">
-  <img src="https://github.com/HARISH4415/HARISH4415/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
